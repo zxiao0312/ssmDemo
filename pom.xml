@@ -103,7 +103,7 @@
         <aopalliance.version>1.0</aopalliance.version>
         <htmlparser.version>2.1</htmlparser.version>
         <freemarker.version>2.3.23</freemarker.version>
-        <xstream.version>1.4.2</xstream.version>
+        <xstream.version>1.4.10-java7</xstream.version>
         <commons-dbutils.version>1.2</commons-dbutils.version>
         <poi.version>3.7</poi.version>
         <aspectjrt.version>1.7.0</aspectjrt.version>
