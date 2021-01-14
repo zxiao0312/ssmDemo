@@ -105,7 +105,7 @@
         <freemarker.version>2.3.23</freemarker.version>
         <xstream.version>1.4.2</xstream.version>
         <commons-dbutils.version>1.2</commons-dbutils.version>
-        <poi.version>3.7</poi.version>
+        <poi.version>3.17</poi.version>
         <aspectjrt.version>1.7.0</aspectjrt.version>
         <aspectjweaver.version>1.7.0</aspectjweaver.version>
         <joda-time.version>2.9.4</joda-time.version>
