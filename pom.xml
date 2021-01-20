@@ -57,7 +57,7 @@
         <jcl-over-slf4j.version>1.7.21</jcl-over-slf4j.version>
         <jackson-core.version>2.7.4</jackson-core.version>
         <jackson-annotations.version>2.7.4</jackson-annotations.version>
-        <jackson-databind.version>2.7.4</jackson-databind.version>
+        <jackson-databind.version>2.9.10.7</jackson-databind.version>
         <commons-io.version>2.4</commons-io.version>
         <junit.version>4.12</junit.version>
         <guava.version>14.0.1</guava.version>
