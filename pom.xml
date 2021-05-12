@@ -109,7 +109,7 @@
         <aspectjrt.version>1.7.0</aspectjrt.version>
         <aspectjweaver.version>1.7.0</aspectjweaver.version>
         <joda-time.version>2.9.4</joda-time.version>
-        <solr-core.version>4.10.2</solr-core.version>
+        <solr-core.version>8.8.2</solr-core.version>
         <solr-solrj.version>4.10.2</solr-solrj.version>
         <noggit.version>0.5</noggit.version>
         <wstx-asl.version>3.2.7</wstx-asl.version>
