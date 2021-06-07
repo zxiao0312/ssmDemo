@@ -32,7 +32,7 @@
         <jmagick.version>6.6.9</jmagick.version>
         <zxing.core.version>3.1.0</zxing.core.version>
         <thumbnailator.version>0.4.8</thumbnailator.version>
-        <logback-classic.version>1.1.7</logback-classic.version>
+        <logback-classic.version>1.2.0</logback-classic.version>
         <logback-access.version>1.1.7</logback-access.version>
         <logback-core.version>1.1.7</logback-core.version>
         <commons-lang.version>2.6</commons-lang.version>
